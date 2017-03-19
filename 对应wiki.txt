@@ -1,0 +1,39 @@
+http://dev3.trs.org.cn/confluence/pages/viewpage.action?pageId=3474445
+
+zheng.lu
+zheng.lu
+
+
+
+
+http://dev3.trs.org.cn/gov/app/login.jsp
+localhost:8080/gov/app/login.jsp
+用户名：dev
+密码：Ggg-AeG-8zB-2FJ
+这个是wcm的登录
+
+
+
+宁夏日报
+http://124.224.239.134/
+账号 admin 密码trsadmin
+
+宁报网址
+http://124.224.239.134/#/editctr/website/pending?channelid=8168&siteid=247
+
+
+
+http://dev3.trs.org.cn/gov/gov.do?MediaType=1&methodname=querySitesOnEditorCenter&serviceid=gov_site
+
+localhost:8080/gov/gov.do?MediaType=1&methodname=querySitesOnEditorCenter&serviceid=gov_site
+
+
+
+if(vm.stopPropagation){
+      $event.stopPropagation();
+    }
+
+ $event.stopPropagation();
+
+
+
