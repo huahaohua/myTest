@@ -13,7 +13,7 @@
                 }
             })
             var a, b = 0;
-            var c, d = a;
+            var c, d, e, f = 0;
             x.x.x.x.x //在这可以把父controller的变量进行传递，以便modal的controller使用
 
             eg: modalInstance.orderId = $scope.orderId;
