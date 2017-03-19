@@ -1,7 +1,7 @@
-< script >
+< script > // 华华
     angular.module('myApp', ['ui.bootstrap']).controller('modalDemo', function($scope, $modal, $log) { //
         $scope.items = ['html5', 'jq', 'FE-演示平台'];
-        $scope.open = function(size) { //打开模态 
+        $scope.open = function(size) { //打开模态
             var modalInstance = $modal.open({
                 templateUrl: 'myModelContent.html', //创建的视图，即modal对应的html文件
                 controller: 'ModalInstanceCtrl', // 初始化模态范围，即该modal的controller
